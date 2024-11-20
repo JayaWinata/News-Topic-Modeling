@@ -16,6 +16,9 @@ This project aims to classify and analyze news articles by topic, leveraging dat
 
 - Split the data into training and testing sets.
 - Train models and evaluate their performance using metrics like accuracy, confusion matrix, and classification reports.
+5. Visualization:
+
+- Plot results to illustrate topic distributions and model performance.
 ## Project Limitations
 1. API Dependency:
 
